@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\bin\Debug\New_Git.exe.config
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\bin\Debug\New_Git.exe
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\bin\Debug\New_Git.pdb
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.Form1.resources
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.exe
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.pdb
+C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.CKhanhForm.resources
