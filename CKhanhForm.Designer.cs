@@ -1,6 +1,6 @@
 ﻿namespace New_Git
 {
-    partial class Form1
+    partial class CKhanhForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,12 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // CKhanhForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Name = "CKhanhForm";
+            this.Text = "CKhanhForm";
+            this.Load += new System.EventHandler(this.CKhanhForm_Load);
             this.ResumeLayout(false);
 
         }
@@ -43,4 +45,3 @@
         #endregion
     }
 }
-
