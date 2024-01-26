@@ -9,3 +9,14 @@ C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.csproj.CoreCompileInputs.c
 C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.exe
 C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.pdb
 C:\Users\ASUS\Desktop\CoAN\NhomDoAn\obj\Debug\New_Git.CKhanhForm.resources
+D:\testgit\Testgit2\NhomDoAn\bin\Debug\New_Git.exe.config
+D:\testgit\Testgit2\NhomDoAn\bin\Debug\New_Git.exe
+D:\testgit\Testgit2\NhomDoAn\bin\Debug\New_Git.pdb
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.csproj.AssemblyReference.cache
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.CKhanhForm.resources
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.Form1.resources
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.Properties.Resources.resources
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.csproj.GenerateResource.cache
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.csproj.CoreCompileInputs.cache
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.exe
+D:\testgit\Testgit2\NhomDoAn\obj\Debug\New_Git.pdb

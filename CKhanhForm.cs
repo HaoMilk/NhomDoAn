@@ -20,6 +20,7 @@ namespace New_Git
         private void CKhanhForm_Load(object sender, EventArgs e)
         {
             //CKhanh
+            //HoaiBao
         }
     }
 }
